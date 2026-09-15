@@ -1,4 +1,4 @@
-# Program to create an advanced student marksheet
+# Program to create an advanced student marksheet:
 
 name = input("Enter student's name: ")
 roll_no = input("Enter roll number: ")
