@@ -1,4 +1,4 @@
-# Program to calculate employee pay based on hours worked
+# This Program is to calculate employee pay based on hours worked
 
 hours = float(input("Enter number of hours worked: "))
 rate = float(input("Enter hourly rate: "))
